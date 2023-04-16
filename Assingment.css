@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding-top: 50px;
+    padding-left: 600px;
+}
+
+.intro{
+    padding-left: 30px;
+    font-size: larger;
+}
+
+.img{
+    padding-top: 20px;
+    padding-left: 450px;
+}
+
+.courses{
+    font-size: larger;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.form{
+    padding-top: 20px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+}
+
+table, th, td {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.other{
+    font-size: larger;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+ul{
+    padding-left: 175px;
+    padding-top: 20px;
+    font-size: larger;
+}
+
+ul li{
+    font-size: larger;
+    padding-left: 30px;
+}
+
+form{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 8px;
+}
+
+thead{
+    font-size: 23px;
+}
+input{
+    padding: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-size: 18px;
+    
+}
+label{
+    padding-left: 60px;
+    font-size: 18px;
+    
+}
+select{
+    padding: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-size: 18px;
+    
+}
+textarea{
+    height: 100px;
+    width: 500px;
+    padding: 8px;
+    margin-top: 20px;
+    margin-bottom:12px;
+    font-size: 18px;
+    
+}
+button{
+    background-color: rgb(22, 153, 254);
+    color: white;
+    border:none;
+    height: 35px;
+    width: 105px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.7 sec;
+}
+button:hover{
+    background-color: rgb(86, 182, 255);
+    color: white;
+}
+
+.heading{
+    padding-left: 30px;
+    font-size: xx-large;
+}
